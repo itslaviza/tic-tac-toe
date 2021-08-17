@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544897204 source:c:\users\laviza\documents\c programs\tic tac toe\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
